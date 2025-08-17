@@ -1,0 +1,1 @@
+# adguard-server.pp.ua
